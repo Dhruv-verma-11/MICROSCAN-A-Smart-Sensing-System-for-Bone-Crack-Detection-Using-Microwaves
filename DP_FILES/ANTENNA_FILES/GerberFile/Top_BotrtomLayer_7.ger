@@ -1,0 +1,11 @@
+G04 ========================BEGIN FILE IDENTIFICATION RECORD===============*
+G04 File Format : GERBER RS274X*
+G04 File Origin : Ansoft Designer*
+G04 =====THIS FILE CONTAINS GERBER DATA FOR LAYERS  BOTRTOMLAYER*
+G04 Design Name C:/Users/hp/Downloads/GerberFile/BotrtomLayer*
+%FSLAX55Y55*MOMM*%
+%ADD10R, 60.000000X60.000000*%
+G75*
+%LPD*%G54D10*
+X0Y0D03*
+M02*
